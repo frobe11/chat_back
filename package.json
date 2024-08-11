@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node": "^22.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "chat_back",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frobe11/chat_back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frobe11/chat_back/issues"
+  },
+  "homepage": "https://github.com/frobe11/chat_back#readme",
+  "description": ""
+}
